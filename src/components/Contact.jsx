@@ -47,7 +47,7 @@ const Contact = () => {
           import.meta.env.VITE_APP_EMAILJS_AUTO_REPLY_TEMPLATE_ID,
           {
             to_name: form.name,
-            to_email: form.email,
+            email: form.email,
             reply_message:
               "Thanks for reaching out! I'll get back to you as soon as possible.",
           },
