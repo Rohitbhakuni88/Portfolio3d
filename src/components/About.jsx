@@ -33,12 +33,8 @@ const About = () => {
         My competitive programming background with 900+ problems solved drives my analytical approach to development.
       </motion.p>
 
-      {/* The technology balls, using your original structure */}
-      <div className='mt-20 flex flex-wrap justify-center gap-10'>
-        {services.map((service, index) => (
-          <ServiceCard key={service.title} index={index} {...service} />
-        ))}
-      </div>
+      
+      
     </>
   );
 };
