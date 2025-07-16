@@ -68,6 +68,6 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Rohitbhakuni88/Portfolio3d.git
 cd your-repo-name
 npm install
