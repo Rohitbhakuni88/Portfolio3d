@@ -1,16 +1,3 @@
-Here’s a **complete, professional, all-in-one README** for your 3D Developer Portfolio.
-It includes:
-✅ Project banner & badges
-✅ Overview & demo
-✅ Tech stack
-✅ Features
-✅ Installation & usage
-✅ Customization guide
-✅ Deployment instructions
-✅ Contributing guide
-✅ License & acknowledgments
-
-Feel free to copy-paste and adjust as you like!
 
 ---
 
@@ -169,4 +156,5 @@ Thanks to:
 ```
 
 ---
+
 
