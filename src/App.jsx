@@ -24,9 +24,9 @@ const App = () => {
         <div className="relative z-10">
           <Navbar />
           <Hero />
-          {/* <About />
+          <About />
           <Experience />
-          <Tech />
+          {/* <Tech />
           <Works />
           <Feedbacks />
           <Contact /> */}
