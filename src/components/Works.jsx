@@ -46,7 +46,7 @@ const projects = [
       { name: "restapi", color: "text-pink-500" },
       { name: "react", color: "text-blue-400" },
     ],
-    image: interviewReadifyImg,
+    // image: interviewReadifyImg,
     source_code_link: "https://github.com/Rohitbhakuni88",
     live_demo_link: "#", // Placeholder for live demo
   },
@@ -60,7 +60,7 @@ const projects = [
       { name: "gamification", color: "text-green-500" },
       { name: "ui/ux", color: "text-pink-500" },
     ],
-    image: cpGuideImg,
+    // image: cpGuideImg,
     source_code_link: "https://github.com/Rohitbhakuni88",
     live_demo_link: "#", // Placeholder for live demo
   },
@@ -74,7 +74,7 @@ const projects = [
       { name: "python", color: "text-green-500" },
       { name: "docker", color: "text-purple-500" },
     ],
-    image: aiDeploymentImg,
+    // image: aiDeploymentImg,
     source_code_link: "https://github.com/Rohitbhakuni88",
     live_demo_link: "#", // Placeholder for live demo
   },
@@ -88,7 +88,7 @@ const projects = [
       { name: "lld", color: "text-yellow-500" },
       { name: "microservices", color: "text-green-500" },
     ],
-    image: systemDesignImg,
+    // image: systemDesignImg,
     source_code_link: "https://github.com/Rohitbhakuni88",
     live_demo_link: "#", // Placeholder for live demo
   },
@@ -101,7 +101,7 @@ const projects = [
       { name: "coolfeature", color: "text-green-500" },
       { name: "development", color: "text-pink-500" },
     ],
-    image: newProject1Img,
+    // image: newProject1Img,
     source_code_link: "https://github.com/Rohitbhakuni88",
     live_demo_link: "#", // Placeholder for live demo
   },
@@ -114,7 +114,7 @@ const projects = [
       { name: "keyfeature", color: "text-purple-500" },
       { name: "deployment", color: "text-red-500" },
     ],
-    image: newProject2Img,
+    // image: newProject2Img,
     source_code_link: "https://github.com/Rohitbhakuni88",
     live_demo_link: "#", // Placeholder for live demo
   },
@@ -202,9 +202,9 @@ const Works = () => {
       </div>
 
       <div className="mt-20 flex flex-wrap gap-7">
-        {projects.map((project, index) => (
+        {/*projects.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
-        ))}
+        ))*/}
       </div>
     </>
   );
